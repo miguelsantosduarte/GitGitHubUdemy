@@ -64,9 +64,24 @@ Algumas alternativas para o GitHub são:
 - **git help**
 - **git init** será criado o diretório configurado como um repositório.
 - **gedit** é um editor de arquivos do Git.
-- **git add** adiciona os arquivos ao index.
-- **git commit** grava as mudanças para o repositório.
+- **git add** adiciona os arquivos ao index para o próximo commit.
+- **git commit **grava as mudanças para o repositório.
 - **git status** mostra o status do repositório
-- **git log** mostra registros dos commits que foram realizados.
+- **git log**  mostra registros dos commits que foram realizados.
 - **git remote add <remote> <url>** Gerencie o conjunto dos repositórios monitorados
+
+### Status dos arquivos
+
+- Não monitorado (untracked)
+
+- Modificado (modified)
+
+- Preparado (staged)
+
+- Consolidado (commited)
+
+### Git Workflow
+
+A maior parte do trabalho com git consiste em editar, commitar e sincronizar com repositório remoto. 
+
 
