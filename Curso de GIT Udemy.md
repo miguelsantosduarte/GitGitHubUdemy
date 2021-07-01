@@ -69,6 +69,7 @@ Algumas alternativas para o GitHub são:
 - **git status** mostra o status do repositório
 - **git log**  mostra registros dos commits que foram realizados.
 - **git remote add <remote> <url>** Gerencie o conjunto dos repositórios monitorados
+- **git diff** mostra a diferença entre commites e  também da arvoré do git.
 
 ### Status dos arquivos
 
@@ -76,12 +77,11 @@ Algumas alternativas para o GitHub são:
 
 - Modificado (modified)
 
-- Preparado (staged)
+- Preparado (staged) O arquivo fica em **staging area**, que é local onde os arquivos prontos para serem commitados ficam.
 
 - Consolidado (commited)
 
 ### Git Workflow
 
 A maior parte do trabalho com git consiste em editar, commitar e sincronizar com repositório remoto. 
-
 
